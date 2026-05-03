@@ -2,10 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=220&section=header&text=Dagnew%20Mekasha&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-</div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+everyone!+%F0%9F%91%8B;My+name+is+Dagnew+Mekasha.;I+am+an+AI-powered+Software+Developer.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<br/>
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+everyone!+%F0%9F%91%8B;My+name+is+Dagnew+Mekasha.;I+am+an+AI-powered+Software+Developer.;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</a>
+
+<br/>
 
 ### ⚡ *Building the future, one commit at a time* ⚡
 
